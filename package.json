@@ -1,0 +1,13 @@
+{
+  "name": "stock-screener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "api": "cd api && node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
